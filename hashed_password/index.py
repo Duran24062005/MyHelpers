@@ -22,6 +22,9 @@ def encriptar_password():
     print(password_hasheado_1)
     print(password_hasheado_2)
 
+def desencriptar_password(text_hashed):
+    pass
+
 
 
 def hash_pass1():
